@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-12-27T14:19:55.719Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.93 Safari/537.36" etag="pCf9IdybqTSQT3XkLzcX" version="16.1.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-27T14:20:58.011Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.93 Safari/537.36" etag="g3XROEIdRZBLNTOhV1xA" version="16.1.0" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1422" dy="762" grid="1" gridSize="17" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" background="#ffffff" math="0" shadow="0">
       <root>
@@ -86,13 +86,13 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="204" y="340" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="34" y="453" />
-              <mxPoint x="34" y="186" />
+              <mxPoint x="187" y="453" />
+              <mxPoint x="187" y="186" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="MiYkf8OrINTVuq1yNtsC-12" value="спрТовары" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="68" y="408" width="140" height="210" as="geometry" />
+          <mxGeometry x="255" y="408" width="140" height="210" as="geometry" />
         </mxCell>
         <mxCell id="MiYkf8OrINTVuq1yNtsC-13" value="ID товара" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="MiYkf8OrINTVuq1yNtsC-12">
           <mxGeometry y="30" width="140" height="30" as="geometry" />
@@ -113,7 +113,7 @@
           <mxGeometry y="180" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="MiYkf8OrINTVuq1yNtsC-16" value="спрПоставщики" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="34" y="34" width="140" height="90" as="geometry" />
+          <mxGeometry x="34" y="81" width="140" height="90" as="geometry" />
         </mxCell>
         <mxCell id="MiYkf8OrINTVuq1yNtsC-17" value="ID поставщика" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="MiYkf8OrINTVuq1yNtsC-16">
           <mxGeometry y="30" width="140" height="30" as="geometry" />
@@ -168,7 +168,7 @@
             <mxPoint x="255" y="153" as="targetPoint" />
             <mxPoint x="153" y="420" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="221" y="79" />
+              <mxPoint x="221" y="126" />
               <mxPoint x="221" y="153" />
             </Array>
           </mxGeometry>
