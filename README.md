@@ -1,3 +1,3 @@
 # IBA-2022
 
-Зимняя стажировка 2022. Работа в Power BI
+Winter internship 2022. Work with Power BI
