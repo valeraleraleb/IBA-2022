@@ -1,3 +1,3 @@
 # Model of data
 
-Построить модель данных и составить дашборд, чтобы анализировать остатки товаров на складе, их оборачиваемость, а также провести классификацию товаров с помощью матрицы BCG.
+Bilded data model and created dashboard to analyze the balance of goods in the warehouse, their turnover, and also classify goods using the BCG matrix.
